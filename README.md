@@ -5,4 +5,5 @@
   * Become walrus
 
 ## Technical Specifications
-  * python
+  * Uses Phaser - https://github.com/photonstorm/phaser
+  * Python fileserver
